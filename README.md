@@ -1,5 +1,15 @@
 # DVFS-Implementation
 “DVFS” : Low Power Optimization Technique.
+DVFS is a system-level power optimization technique.
+Dynamically adjusts voltage and frequency according to workload demand.
+Reduces dynamic power using the relation:  
+P = α · C · V² · f
+<img width="360" height="105" alt="image" src="https://github.com/user-attachments/assets/a55a4c5f-6cb2-4cbf-8ed9-0f691d7ea34e" />
+V ,Voltage scaling provides quadratic power savings.
+f ,Frequency scaling controls performance and timing.
+Enables energy-efficient operation without hardware redesign.
+<img width="1354" height="594" alt="image" src="https://github.com/user-attachments/assets/509a0691-ad5f-49e5-bf32-80b1cf65b8a5" />
+
 <img width="882" height="88" alt="image" src="https://github.com/user-attachments/assets/a99e62df-39be-4464-a7af-457a19ffb4c4" />
 
 
