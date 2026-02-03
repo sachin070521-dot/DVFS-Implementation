@@ -1,8 +1,11 @@
 # DVFS-Implementation
 “DVFS” : Low Power Optimization Technique.
  
-P = α · C · V² · f
+
 <img width="360" height="105" alt="image" src="https://github.com/user-attachments/assets/a55a4c5f-6cb2-4cbf-8ed9-0f691d7ea34e" />
+P = α · C · V² · f
+![Uploading image.png…]()
+
 V ,Voltage scaling provides quadratic power savings.
 f ,Frequency scaling controls performance and timing.
 Enables energy-efficient operation without hardware redesign.
